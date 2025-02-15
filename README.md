@@ -33,6 +33,3 @@ Construir um modelo de Machine Learning para estimar a probabilidade de inadimpl
 ## Resultados e Conclusão
 O feedback que recebi do gestor técnico em relação a esse case foi que meu modelo alcançou uma das melhores performances do desafio.
 
----
-**Autor:** Samir Mascarenhas
-
