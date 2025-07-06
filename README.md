@@ -30,6 +30,16 @@ Construir um modelo de Machine Learning para estimar a probabilidade de inadimpl
 - Explicação detalhada do código ao gestor técnico.
 - Feedback positivo sobre a performance e abordagem do modelo.
 
+## Business Performance
+Com o modelo de Regressão Logística desenvolvido, a instituição financeira pode estimar com precisão a probabilidade de inadimplência de cada cliente antes da concessão do crédito. O modelo atingiu uma pontuação AUROC de 0,76 e uma estatística KS de 0,426, indicando uma boa capacidade de separação entre clientes adimplentes e inadimplentes.
+
+Com base em 100 mil clientes analisados, e considerando uma taxa de inadimplência média de 10%, estima-se que cerca de 10.000 clientes se tornariam inadimplentes. Em um cenário conservador baseado nas previsões do modelo, é possível evitar aproximadamente 30% dessas ocorrências, o que equivale a 3.000 clientes.
+
+Assumindo um prejuízo médio de R$ 5.000 por cliente inadimplente, o uso do modelo representa uma economia potencial de R$ 15 milhões por ciclo de concessão de crédito. Ao longo de um ano, esse valor pode ultrapassar R$ 100 milhões, dependendo da frequência de renovação das carteiras.
+
+Considerando um faturamento anual de R$ 1 bilhão para uma instituição financeira de grande porte, essa economia representa um aumento de cerca de 10% no faturamento anual.
+
+
 ## Resultados e Conclusão
 O feedback que recebi do gestor técnico em relação a esse case foi que meu modelo alcançou uma das melhores performances do desafio.
 
